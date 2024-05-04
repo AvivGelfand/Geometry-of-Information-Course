@@ -1,14 +1,18 @@
 # Geometry of Information Course
-Lectured by: [Prof. Ariel Jaffe](https://arieljaffe.huji.ac.il/)
+Lectured by:
+* [Prof. Ariel Jaffe](https://arieljaffe.huji.ac.il/)
+Made by: 
+* [Adi Cohen](https://www.linkedin.com/in/adi-cohen-5302297b/?originalSubdomain=il)
+* [Aviv Gelfand](https://www.linkedin.com/in/aviv-gelfand/)
 
 In this repository you will find my home tasks for this course.<p></p>
 
-<img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/e1c29174-2599-431f-84b0-98c4379b7d2d"  width="350" align="center" /> 
-<img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/f0550fc7-d8bb-4268-8265-f8b05f0e0afe"  width="341" align="center" /> <p></p>
+<img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/caf61e36-73c8-439e-bedd-fd34d9ea673c"  width="350" align="center" /> 
+<img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/9e88ae59-c0f5-4861-8b77-e9254314f048"  width="350" align="center" /> <p></p>
+<img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/d96c0b0a-6247-4ec5-b255-305dbc829cb7"  width="700" align="center" /> <p></p>
+<img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/b70e2f90-5588-4673-9886-780f2415dde2"  width="700" align="center" /> <p></p>
+<img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/4983d174-50e0-4fda-bf22-592865b96c1c"  width="700" align="center" /> <p></p>
 
-<img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/d96c0b0a-6247-4ec5-b255-305dbc829cb7"  width="696" align="center" /> <p></p>
-<img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/b70e2f90-5588-4673-9886-780f2415dde2"  width="696" align="center" /> <p></p>
-<img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/4983d174-50e0-4fda-bf22-592865b96c1c"  width="696" align="center" /> <p></p>
 
 ## Topics the exercises Covered 
 
