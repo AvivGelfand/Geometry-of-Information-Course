@@ -1,9 +1,8 @@
 # Geometry of Information Course
-Lectured by:
-* [Prof. Ariel Jaffe](https://arieljaffe.huji.ac.il/)
+Lectured by: [Prof. Ariel Jaffe](https://arieljaffe.huji.ac.il/)
 Made by: 
-* [Adi Cohen](https://www.linkedin.com/in/adi-cohen-5302297b/?originalSubdomain=il)
-* [Aviv Gelfand](https://www.linkedin.com/in/aviv-gelfand/)
+* [**Adi Cohen**](https://www.linkedin.com/in/adi-cohen-5302297b/?originalSubdomain=il)
+* [**Aviv Gelfand**](https://www.linkedin.com/in/aviv-gelfand/)
 
 In this repository you will find my home tasks for this course.<p></p>
 
