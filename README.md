@@ -9,7 +9,6 @@ In this repository you will find my home tasks for this course.<p></p>
 <img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/d96c0b0a-6247-4ec5-b255-305dbc829cb7"  width="696" align="center" /> <p></p>
 <img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/b70e2f90-5588-4673-9886-780f2415dde2"  width="696" align="center" /> <p></p>
 <img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/4983d174-50e0-4fda-bf22-592865b96c1c"  width="696" align="center" /> <p></p>
-<img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/4983d174-50e0-4fda-bf22-592865b96c1c"  width="696" align="center" /> <p></p>
 
 ## Topics the exercises Covered 
 
